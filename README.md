@@ -1,5 +1,5 @@
 # order_weight
-### code test deccember 2022
+
 
 you are provided a string containing a list of positive integers separated by a space (" "). Take each value and calculate the sum of its digits, which we call its "weight". Then return the list in ascending order by weight, as a string joined by spaces.
 
